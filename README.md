@@ -30,3 +30,8 @@ Clé d'accès à l'API ('k'): 317319
 
 Lien vers le dépot: https://github.com/maximecohen2/programmation_temps_reel_i4_jeu_reseau_temps_reel
 
+### Sources et documentation
+
+RestClient: Simple HTTP and REST client for Unity based on Promises, also supports Callbacks!
+https://github.com/proyecto26/RestClient
+
